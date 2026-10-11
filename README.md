@@ -1,8 +1,6 @@
 # Alzheimers-Disease-Prediction-Project
 Alzheimer's Disease Prediction using Machine Learning | Developed during a Data Science Internship at AI Variant
 
-# Alzheimer's Disease Prediction Using Machine Learning
-
 ## Project Objective
 The objective of this project is to develop a machine learning model for predicting Alzheimer's disease using patient demographic, medical, lifestyle, and cognitive assessment data. It focuses on identifying relevant patterns, comparing classification algorithms, and optimizing prediction accuracy.
 
