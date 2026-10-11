@@ -20,4 +20,4 @@ Developed as part of a **Data Science Internship at AI Variant**.
 - Streamlit
 
 ## Live Demo
-🔗 https://your-streamlit-app-url
+🔗 https://tharun-alzheimers-disease-prediction-project.streamlit.app/
